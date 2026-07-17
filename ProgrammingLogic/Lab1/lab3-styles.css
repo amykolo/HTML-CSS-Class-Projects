@@ -1,1 +1,43 @@
+/* General page styling */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
 
+/* Header styling */
+h1 {
+    color: teal;
+    text-align: center;
+}
+
+/* Paragraph styling */
+p {
+    color: teal;
+    padding: 10px;
+}
+
+/* List styling */
+ul {
+    list-style-type: square;
+}
+
+li {
+    color: navy;
+}
+
+/* Link styling */
+a {
+    color: blue;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+/* Box styling */
+.styled-box {
+    border: 2px solid purple;
+    background-color: lightgray;
+    padding: 15px;
+    text-align: center;
+}
